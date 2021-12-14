@@ -31,17 +31,17 @@
 
 
 ### 🛠 개인 프로젝트
-[스터디 그룹 매칭 서비스](https://github.com/nice7677/studygroup-for-portfolio)
+[스터디 그룹 매칭 서비스(Golang)](https://github.com/nice7677/studygroup-for-portfolio)
 
-[카카오TV 플랫폼 채팅봇](https://github.com/nice7677/kakaotv-chat-bot-for-portfolio)
+[카카오TV 플랫폼 채팅봇(Golang)](https://github.com/nice7677/kakaotv-chat-bot-for-portfolio)
 
-[매매 일지 웹 서비스](https://github.com/nice7677/trading-note-for-portfolio)
+[매매 일지 웹 서비스(Java)](https://github.com/nice7677/trading-note-for-portfolio)
 
-[커뮤니티 사이트 사용자 지역별 단어 분석](https://github.com/nice7677/community-site-analysis-for-portfolio)
+[커뮤니티 사이트 사용자 지역별 단어 분석(Java)](https://github.com/nice7677/community-site-analysis-for-portfolio)
 
-[외국인 유튜버의 영상으로 배우는 영어](https://github.com/nice7677/learn-english-with-video-subtitle-for-portfolio)
+[외국인 유튜버의 영상으로 배우는 영어(Golang)](https://github.com/nice7677/learn-english-with-video-subtitle-for-portfolio)
 
-[대만의 오늘](https://github.com/nice7677/taiwantoday-for-portfolio)
+[대만의 오늘(Golang)](https://github.com/nice7677/taiwantoday-for-portfolio)
 
-[업비트 가격 알람봇](https://github.com/nice7677/upbit-price-alarmbot-for-portfolio)
+[업비트 가격 알람봇(Java)](https://github.com/nice7677/upbit-price-alarmbot-for-portfolio)
 
