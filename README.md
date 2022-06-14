@@ -1,7 +1,9 @@
 <!-- <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1> -->
 
-![nightCoding](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
 ![studypepe](https://cdn3.emoji.gg/emojis/1498-pepe-studying.png)
+<p>
+![nightCoding](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
+
 <!-- <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>  -->
 <!-- ### Learning  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px>
 <p>
