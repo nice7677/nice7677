@@ -1,7 +1,9 @@
 <!-- <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1> -->
 
 ![studypepe](https://cdn3.emoji.gg/emojis/1498-pepe-studying.png)
+
 <p>
+      
 ![nightCoding](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
 
 <!-- <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>  -->
