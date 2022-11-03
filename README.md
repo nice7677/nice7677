@@ -32,13 +32,15 @@
 ### 진행중인 프로젝트
 <a href="https://github.com/TheCarbToon">
       <img class="img-concert" src="https://avatars.githubusercontent.com/u/97396627?s=200&v=4" width="35px">
-</a> -->
+</a> 
 
 <p>
 
 <a href="https://github.com/nice7677">
   <img width=380 height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nice7677&theme=city_lights&hide=html,javascript&layout=compact" />
 </a>
+
+-->
 
 <p>
 
