@@ -47,8 +47,6 @@
 <a href="https://github.com/nice7677">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=nice7677&theme=city_lights&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-<div>
-  <img src="https://raw.githubusercontent.com/nice7677/nice7677/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
+
 
 ------
